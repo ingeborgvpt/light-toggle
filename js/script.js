@@ -1,8 +1,10 @@
+"use strict";
 // Husk fra dag 1: skriv "use strict" herunder
 
 
 // Eksempel: vi henter "on"-knappen ved hjælp af dens id-attribut (husk fra HTML/CSS: id identificerer ét bestemt element)
 const lightOn = document.getElementById("onBtn");
+const lightOff = document.getElementById("offBtn");
 
 // Skriv selv: hent "off"-knappen på samme måde, ved hjælp af dens id. Variablen skal hedde lightOff
 
